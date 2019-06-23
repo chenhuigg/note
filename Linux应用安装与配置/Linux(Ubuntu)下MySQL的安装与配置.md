@@ -22,7 +22,7 @@ sudo apt-get install mysql-server mysql-client
 sudo netstat -tap | grep mysql 
 ```
 
-![img](D:/Youdao/YoudaoDownLoad/qq8DA30C90167564599C3E6292BAA35072/d2389a43fe6841b7924e669d1011e471/clipboard.png)
+![](https://user-gold-cdn.xitu.io/2019/6/23/16b83829bb0dc3df?w=641&h=34&f=png&s=3589)
 
 出现此画面,则安装成功
 
@@ -62,7 +62,7 @@ service mysqld restart
 
 `netstat -ano | grep 3306 `
 
-![img](D:/Youdao/YoudaoDownLoad/qq8DA30C90167564599C3E6292BAA35072/c875ffbb85ea4134bc17a0d27bf606f9/clipboard.png)
+![](https://user-gold-cdn.xitu.io/2019/6/23/16b8382cbd1c03f6?w=722&h=43&f=png&s=5271)
 
 如图,第二条为默认情况下监听的地址,所监听的是服务器内网地址
 
