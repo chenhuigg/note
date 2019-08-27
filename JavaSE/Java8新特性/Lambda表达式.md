@@ -40,8 +40,8 @@ jFrame.setVisible(true);
 jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 ```
 
-
-
+<br>
+<br>
 ### Lambda表达式的基本结构
 
 ---
@@ -65,8 +65,6 @@ jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 Lambda表达式的主体可以包含多条语句。
 
 如果Lambda表达式的主体语句只有一条，花括号可以省略，匿名函数的返回类型与该主体表达式一致。
-
-
 
 ### 遍历数组
 
